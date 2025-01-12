@@ -544,3 +544,5 @@ Learn how to use GPT to:
 -   **Pro Tip**:\
     Start a new session, reintroduce summaries, and compare how well GPT
     resumes the discussion for continuity.
+
+    [Back to the Top](#) | [Back to the ToC](../README.md)

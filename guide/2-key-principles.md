@@ -161,3 +161,5 @@ prompt is your key to unlocking GPT's potential.
     complex tasks to enhance GPT's understanding and focus. 
     See [3.1. Crafting Effective Prompts: Building Blocks, Order, and Best Practices](guide/3.1-crafting-prompts.md)
     for more on using delimiters.
+
+[Back to the Top](#) | [Back to the ToC](../README.md)

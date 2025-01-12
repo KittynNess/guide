@@ -45,3 +45,5 @@ creativity, insight, and a bit of fun. Happy prompting!
 These resources should provide a solid foundation for both beginners and
 intermediate users looking to enhance their understanding and
 application of ChatGPT and prompt engineering.
+
+[Back to the ToC](../README.md)

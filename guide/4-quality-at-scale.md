@@ -10,3 +10,6 @@ enhance automation, embedding quality into every stage of development.
    4.3. [AI-Powered Test Case Generation: Best Practices](guide/4.3-test-case-generation.md)  
    4.4. [AI-Powered Test Automation: Best Practices](guide/4.4-test-automation.md)  
    4.5. [Embedding Quality in Agile Development with AI](guide/4.5-agile-development.md)  
+
+
+[Back to the ToC](../README.md)
