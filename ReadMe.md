@@ -45,8 +45,11 @@ Contributions to this guide are welcome! Please open an issue or submit a pull r
 ---
 
 ## License
-This guide is licensed under [MIT License](LICENSE.md).
+This guide is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  
+[Learn more about this license.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
 [Back to Top](#prompt-engineering-guide)
+
+[PDF version of the guide](../resources/Prompt_Engineering_Guide.pdf)
