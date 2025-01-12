@@ -47,3 +47,5 @@ intermediate users looking to enhance their understanding and
 application of ChatGPT and prompt engineering.
 
 [Back to the ToC](../ReadMe.md)
+
+[Download a PDF version](../resources/Prompt_Engineering_Guide.pdf)
