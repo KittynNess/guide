@@ -1,5 +1,7 @@
 # 1. Introduction to Prompt Engineering
 
+<a name="top"></a>
+
 Think of prompt engineering as the key to unlocking GPT's full
 potential. It's not just about "talking" to AI---it's about guiding it
 to deliver exactly what you need, whether that's crafting a flawless
@@ -62,4 +64,4 @@ And here's a little secret: Prompt engineering isn't just a skill---it's
 an invitation to be curious. The more you explore, the more you'll
 uncover what GPT can truly do. So, grab a prompt and let's get started...
 
-[Back to the Top](#intro-to-prompt-engineering) | [Back to the ToC](https://github.com/your-username/Prompt-Engineering-Guide/blob/main/README.md)
+[Back to Top](#top) | [Back to the ToC](../README.md)

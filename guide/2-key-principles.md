@@ -1,5 +1,7 @@
 # 2. Key Principles of Prompt Engineering
 
+<a name="top"></a>
+
 You wouldn't build a house without a solid foundation, right? The same
 goes for prompts. A well-crafted prompt doesn't just get the job
 done---it sets you up for success. By following a few core principles,
@@ -162,4 +164,4 @@ prompt is your key to unlocking GPT's potential.
     See [3.1. Crafting Effective Prompts: Building Blocks, Order, and Best Practices](guide/3.1-crafting-prompts.md)
     for more on using delimiters.
 
-[Back to the Top](#key-principles-of-prompt-engineering) | [Back to the ToC](./README.md)
+[Back to Top](#top) | [Back to the ToC](../README.md)
