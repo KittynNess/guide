@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Prompt Engineering Guide
 
 This guide was born out of curiosity whether ChatGPT itself can guide a user to create prompts that are effective from the ChatGPT point of view and  make sense for humans.
@@ -50,6 +52,6 @@ This guide is licensed under the Creative Commons Attribution-NonCommercial-Shar
 
 ---
 
-[Back to Top](#prompt-engineering-guide)
+[Back to Top](#top)
 
 [PDF version of the guide](../resources/Prompt_Engineering_Guide.pdf)
