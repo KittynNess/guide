@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # 5. Hands-On Prompt Practice
 
 This section bridges theory and practice, offering guided scenarios to
@@ -545,4 +547,4 @@ Learn how to use GPT to:
     Start a new session, reintroduce summaries, and compare how well GPT
     resumes the discussion for continuity.
 
-    [Back to the Top](#) | [Back to the ToC](../README.md)
+    [Back to Top](#top) | [Back to the ToC](../ReadMe.md)

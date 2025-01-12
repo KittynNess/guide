@@ -12,4 +12,4 @@ prompts that are thoughtful, impactful, and boundary-pushing.
    7.2. [Designing for Accessibility](guide/7.2-accessibility.md)  
    7.3. [Non-Technical Use Cases](guide/7.3-non-technical.md)  
 
-[Back to the ToC](../README.md)
+[Back to the ToC](../ReadMe.md)

@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # 6. Advanced Prompting Techniques and Refinement
 
 Crafting great prompts is like fine-tuning a conversation with an expert
@@ -8,7 +10,6 @@ structure, and creativity to every interaction. Think of it as levelling
 up your prompting skills to get the most out of GPT, no matter how
 complex or specific your needs.
 
-┬á
 
 ### 1. Use Tags for Clarity in Series of Prompts
 
@@ -221,4 +222,4 @@ clearer and more thoughtful you are, the better the outcome. So keep
 experimenting, stay curious, and remember---every interaction is a
 chance to learn, refine, and create something amazing.
 
-[Back to the Top](#) | [Back to the ToC](../README.md)
+[Back to Top](#top) | [Back to the ToC](../ReadMe.md)

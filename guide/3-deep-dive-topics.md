@@ -17,4 +17,4 @@ illustrative scenarios to bridge theory with real-world application.
    3.7. [Testing Prompts Across GPT Versions and Dealing with Updates](guide/3.7-testing-prompts.md)  
    3.8. [Developer Experience vs. User Experience](guide/3.8-dev-vs-user.md)  
 
-[Back to the ToC](../README.md)
+[Back to the ToC](../ReadMe.md)

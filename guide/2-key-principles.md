@@ -1,6 +1,6 @@
-# 2. Key Principles of Prompt Engineering
-
 <a name="top"></a>
+
+# 2. Key Principles of Prompt Engineering
 
 You wouldn't build a house without a solid foundation, right? The same
 goes for prompts. A well-crafted prompt doesn't just get the job
