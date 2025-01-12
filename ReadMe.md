@@ -52,4 +52,4 @@ This guide is licensed under the Creative Commons Attribution-NonCommercial-Shar
 
 [Back to Top](#prompt-engineering-guide)
 
-[PDF version of the guide](../resources/Prompt_Engineering_Guide.pdf)
+[PDF version of the guide](../guide/resources/Prompt_Engineering_Guide.pdf)

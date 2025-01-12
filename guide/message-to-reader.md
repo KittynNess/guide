@@ -48,4 +48,4 @@ application of ChatGPT and prompt engineering.
 
 [Back to the ToC](../ReadMe.md)
 
-[PDF version of the guide](../resources/Prompt_Engineering_Guide.pdf)
+[PDF version of the guide](../guide/resources/Prompt_Engineering_Guide.pdf)
