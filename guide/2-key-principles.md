@@ -162,4 +162,4 @@ prompt is your key to unlocking GPT's potential.
     See [3.1. Crafting Effective Prompts: Building Blocks, Order, and Best Practices](guide/3.1-crafting-prompts.md)
     for more on using delimiters.
 
-[Back to the Top](#) | [Back to the ToC](../README.md)
+[Back to the Top](#key-principles-of-prompt-engineering) | [Back to the ToC](./README.md)

@@ -62,4 +62,4 @@ And here's a little secret: Prompt engineering isn't just a skill---it's
 an invitation to be curious. The more you explore, the more you'll
 uncover what GPT can truly do. So, grab a prompt and let's get started...
 
-[Back to the Top](#) | [Back to the ToC](../README.md)
+[Back to the Top](#intro-to-prompt-engineering) | [Back to the ToC](https://github.com/your-username/Prompt-Engineering-Guide/blob/main/README.md)
